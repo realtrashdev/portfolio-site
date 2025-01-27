@@ -1,5 +1,5 @@
 ---
-title: coool website
+title: Home
 ---
 
-coolo webwskte
+Welcome to my portfolio website
