@@ -1,6 +1,5 @@
 ---
 title: coool website
-
-hello world
 ---
 
+coolo webwskte
