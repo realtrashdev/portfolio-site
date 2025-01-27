@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: coool website
+
+hello world
 ---
 
